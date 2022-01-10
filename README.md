@@ -1,12 +1,13 @@
 # undefined
-  ![license](https://img.shields.io/badge/LICENSE-MIT-PINK.svg)
+  ![license](https://img.shields.io/badge/LICENSE-MIT.svg)
   
   ## Description 
-  Read me file created in command line
+  Read me Generator
 
   ## Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Video](#video)
   * [Contributions](#contributions)
   * [Test](#test)
   *[License](#'MIT': '[MIT License](https://choosealicense.com/licenses/mit/)',)
@@ -14,17 +15,20 @@
 
   ## Installation 
 
-  This project required installation of inquirer, json packages, and node modules.
+  Project required installation of inquirer, json packages, and node modules
 
 
 ## Usage
- Demonstrate how to create Readme file in comman line
+ To demonstrate how to create a file using Node
+
+ ## Video
+ https://watch.screencastify.com/v/cBQ7Gw71JZDP36dXxz9k
 
 
  ## Contributing
   undefined
   ## Tests
-  n/a
+  na
   ## License
   The license for this project is MIT.
 

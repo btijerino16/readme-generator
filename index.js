@@ -40,7 +40,7 @@ const questions = [
     {
         type: "input",
         name: "video",
-        message: "Were you able to show demonstration in video",
+        message: "please provide link for video",
     },
     {
         type: "input",
