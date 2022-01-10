@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   * [Contributions](#contributions)
   * [Test](#test)
   ${renderLicenseLink(data.license)}
-  * [Questions](#questions)
+  * [Github](#github)
 
   ## Installation 
 
@@ -63,7 +63,8 @@ function generateMarkdown(data) {
   ${data.tests}
   ${renderLicenseSection(data.license)}
 
-
+## Github
+${data.github}
 
 `;
 }

@@ -2,7 +2,7 @@
   ![license](https://img.shields.io/badge/LICENSE-MIT.svg)
   
   ## Description 
-  Read me Generator
+  Read me generator
 
   ## Table of Contents 
   * [Installation](#installation)
@@ -11,18 +11,18 @@
   * [Contributions](#contributions)
   * [Test](#test)
   *[License](#'MIT': '[MIT License](https://choosealicense.com/licenses/mit/)',)
-  * [Questions](#questions)
+  * [Github](#github)
 
   ## Installation 
 
-  Project required installation of inquirer, json packages, and node modules
+  Inquirer and json packages used to create file
 
 
 ## Usage
- To demonstrate how to create a file using Node
+ Demonstrate functionality of Node
 
  ## Video
- https://watch.screencastify.com/v/cBQ7Gw71JZDP36dXxz9k
+ https://watch.screencastify.com/v/uLGAkOzq7IumnlQKKuN0
 
 
  ## Contributing
@@ -32,5 +32,6 @@
   ## License
   The license for this project is MIT.
 
-
+## Github
+btijerino16
 
